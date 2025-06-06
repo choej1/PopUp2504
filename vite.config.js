@@ -5,7 +5,7 @@ import path from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/scrub-daddy-performance-showcase/',
+  base: '/PopUp2504/',
   plugins: [react(),tailwindcss()],
   resolve: {
     alias: {
