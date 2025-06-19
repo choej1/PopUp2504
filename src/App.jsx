@@ -76,12 +76,13 @@ function App() {
         <div className="max-w-md w-full bg-white rounded-2xl shadow-xl p-8 text-center">
           <div className="mb-8">
             <img src={logo} alt="Scrub Daddy Logo" className="h-16 mx-auto mb-4" />
-            <h1 className="text-2xl font-bold text-gray-800 mb-2">
+<h1 className="text-xl font-bold text-gray-800 mb-2">
   팝업스토어 성과 자료 @더현대 서울
 </h1>
-<h2 className="text-lg font-medium text-gray-600 mb-4">
+<h2 className="text-base font-medium text-gray-600 mb-4">
   Pop-up Store Performance @The Hyundai Seoul
 </h2>
+
             <p className="text-gray-600">
               언어를 선택해주세요
             </p>
