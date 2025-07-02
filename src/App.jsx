@@ -84,7 +84,7 @@ function App() {
 </h2>
 
             <p className="text-gray-600">
-              언어를 선택해주세요
+              언어를 선택해주세요 Choose Your Language 
             </p>
           </div>
           
